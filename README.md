@@ -20,5 +20,6 @@ Todo list application that can create, read, update, delete, and mark completed.
 
 4. Open your browser and browse to http://localhost:3000
 
-### Snapshots
+### sample result
+![TodoList App](C:\Users\ambat\OneDrive\Pictures\Screenshots\Screenshot 2026-02-17 171246.png)
 
