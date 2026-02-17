@@ -21,5 +21,5 @@ Todo list application that can create, read, update, delete, and mark completed.
 4. Open your browser and browse to http://localhost:3000
 
 ### sample result
-![TodoList App](sampleresult.png)
+![TodoList App](SampleResult.png)
 
